@@ -1,22 +1,18 @@
 {
-  "name": "showmyname-aml",
+  "name": "showmyname-lib",
   "version": "1.0.0",
-  "description": "testing library",
+  "description": "testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayemyatlwin/showmyname-aml.git"
+    "url": "git remote add origin https://github.com/ayemyatlwin/showmyname-test-lib.git"
   },
   "keywords": [
     "nmh"
   ],
   "author": "ayemyatlwin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ayemyatlwin/showmyname-aml/issues"
-  },
-  "homepage": "https://github.com/ayemyatlwin/showmyname-aml#readme"
+  "license": "ISC"
 }
